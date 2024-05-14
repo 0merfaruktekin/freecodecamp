@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+}
+main {
+    margin: auto;
+    width: 50%;
+    border: 3px solid grey;
+    padding: 10px;
+    background-color: grey;
+  }
+#img-div{
+    margin: auto;
+    width: 30%;
+
+}
+img{
+    max-width: 100%;
+    display: block;
+}
